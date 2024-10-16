@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://gitlab.com/geolah_backend/k8s-cluster/mongodb-service.git
+    repoURL: https://github.com/esqyre/mongodb-service-development.git
     targetRevision: development
     path: dev/
   destination:
